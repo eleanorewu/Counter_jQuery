@@ -5,5 +5,15 @@
 https://uie-823.github.io/Counter_jQuery/
 
 # 使用說明
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script src="https://uie-823.github.io/Counter_jQuery/counter.js"></script>
+jQuery CDN
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+counter CDN
+
+    <script src="https://uie-823.github.io/Counter_jQuery/counter.js"></script>
+
+添加屬性
+
+    data-ct-number="數字"
+    data-ct-duration="時間"
