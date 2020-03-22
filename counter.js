@@ -9,8 +9,8 @@ $("*").each(function() {
         // 記數：指定數字
         countNum: number
     }, {
-        // 時間
-        duration: dur,
+        // 時間:將""字串轉為整數
+        duration: parseInt(dur),
         // 緩動
         easing: "linear",
         // 每一步

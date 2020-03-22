@@ -6,7 +6,13 @@
     box-sizing: border-box;
 }
 
+body {
+    background: #d3c0a5;
+}
+
 .number {
+    text-align: center;
+    color: white;
     font-size: 36px;
     padding: 30px;
 }
